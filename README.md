@@ -71,6 +71,9 @@ Attrition vs Overtime Analysis
 Job Satisfaction vs Attrition
 Work-Life Balance vs Attrition
 
+## Dashboard Preview
+![Employee Dashboard](PowerBI/HR_Attrition_Dashboard.pbix)
+
 🧩 Data Model (ERD Concept)
 
 The dataset was conceptually structured into a normalized model:
